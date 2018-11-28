@@ -1,6 +1,4 @@
 # sha512-Password-PHP
-Hashing password with sha512, Salt - Impossible to Break
-
 Hashing Password
 1. We take $username and $password from from user input
 2. $hashed is hashing with sha512 with username and password concatenation
